@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kaan-gozleme
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./
